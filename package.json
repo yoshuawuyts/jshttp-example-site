@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "dad": "^0.4.2",
-    "react": "^0.11.1",
+    "react": "^0.14.0",
     "wayfarer": "^1.1.0"
   }
 }
